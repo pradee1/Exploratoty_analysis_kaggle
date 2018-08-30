@@ -1,4 +1,4 @@
-# Missing_values_missingno
+# MExploratoty_analysis_kaggle - Missingno
 Application of missingno package to study missing values 
 
 missingno package offers easy to use visulazations to explore missing data.
